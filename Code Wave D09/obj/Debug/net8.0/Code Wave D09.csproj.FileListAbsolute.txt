@@ -1,0 +1,14 @@
+C:\Users\Ahmed\source\repos\Code Wave D09 solution\Code Wave D09\bin\Debug\net8.0\Code Wave D09.exe
+C:\Users\Ahmed\source\repos\Code Wave D09 solution\Code Wave D09\bin\Debug\net8.0\Code Wave D09.deps.json
+C:\Users\Ahmed\source\repos\Code Wave D09 solution\Code Wave D09\bin\Debug\net8.0\Code Wave D09.runtimeconfig.json
+C:\Users\Ahmed\source\repos\Code Wave D09 solution\Code Wave D09\bin\Debug\net8.0\Code Wave D09.dll
+C:\Users\Ahmed\source\repos\Code Wave D09 solution\Code Wave D09\bin\Debug\net8.0\Code Wave D09.pdb
+C:\Users\Ahmed\source\repos\Code Wave D09 solution\Code Wave D09\obj\Debug\net8.0\Code Wave D09.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmed\source\repos\Code Wave D09 solution\Code Wave D09\obj\Debug\net8.0\Code Wave D09.AssemblyInfoInputs.cache
+C:\Users\Ahmed\source\repos\Code Wave D09 solution\Code Wave D09\obj\Debug\net8.0\Code Wave D09.AssemblyInfo.cs
+C:\Users\Ahmed\source\repos\Code Wave D09 solution\Code Wave D09\obj\Debug\net8.0\Code Wave D09.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed\source\repos\Code Wave D09 solution\Code Wave D09\obj\Debug\net8.0\Code Wave D09.dll
+C:\Users\Ahmed\source\repos\Code Wave D09 solution\Code Wave D09\obj\Debug\net8.0\refint\Code Wave D09.dll
+C:\Users\Ahmed\source\repos\Code Wave D09 solution\Code Wave D09\obj\Debug\net8.0\Code Wave D09.pdb
+C:\Users\Ahmed\source\repos\Code Wave D09 solution\Code Wave D09\obj\Debug\net8.0\Code Wave D09.genruntimeconfig.cache
+C:\Users\Ahmed\source\repos\Code Wave D09 solution\Code Wave D09\obj\Debug\net8.0\ref\Code Wave D09.dll

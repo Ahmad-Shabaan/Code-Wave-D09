@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Code Wave D09/1.0.0": {
+        "runtime": {
+          "Code Wave D09.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Code Wave D09/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
